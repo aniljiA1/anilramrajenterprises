@@ -18,3 +18,4 @@ SHEET_NAME = "Emails"
 
 # State persistence
 STATE_FILE = "credentials/state.json"
+
